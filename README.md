@@ -1,5 +1,5 @@
 # Purpose
-Made to download YouTube videos comfortably from Windows 10
+Made to download YouTube videos comfortably 
 
 # Installation
 pip3 install dltube
